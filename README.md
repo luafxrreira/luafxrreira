@@ -8,7 +8,7 @@
 ---
 
 ### Sobre mim
-Sou estudante de Ciência da Computação (instituto Mauá de Tecnologia) com grande interesse por integração de APIs, boas práticas de segurança da informação e foco em desenvolvimento backend.  
+Sou estudante de Ciência da Computação (instituto Mauá de Tecnologia) com foco em desenvolvimento backend e grande interesse por integração de APIs, boas práticas de segurança da informação.  
 Atualmente venho explorando aplicação prática de IA através do desenvolvimento do Lumyn, um assistente com arquitetura RAG (Retrieval-Augmented Generation).
 
 ---
